@@ -1,1 +1,1 @@
-Drone: python -m main
+worker : chmod +x start.sh && bash start.sh

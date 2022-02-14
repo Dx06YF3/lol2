@@ -1,6 +1,6 @@
 {
-    "name": "Save Restricted",
-    "description": "Save restricted content",
+    "name": "Save stricted",
+    "description": "Save reicted content",
     "logo": "",
     "keywords": [
         "Best",
@@ -8,9 +8,9 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://github.com/Dx06YF3/lol2",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/Drone",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",

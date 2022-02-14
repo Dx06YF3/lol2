@@ -1,4 +1,4 @@
-#ChauhanMahesh/Vasusen/DroneBots/COL
+
 
 from telethon import TelegramClient
 from decouple import config
